@@ -5,6 +5,7 @@ Es un archivo único que contiene todos los programas, librerías, dependencias 
 
 ## ¿Cuál es la relación entre una imagen y un contenedor? 
 # COMPLETAR 
+Una imagen es una plantilla que contiene todo lo necesario para ejecutar una aplicación, mientras que un contenedor es una instancia en ejecución de esa imagen. Es decir, los contenedores se crean a partir de imágenes y representan su versión "viva" y en funcionamiento.
 
 ![Imagen y contenedores](img/imagenContenedores.JPG)
 ## Comandos para imágenes
