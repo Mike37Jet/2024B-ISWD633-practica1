@@ -26,5 +26,8 @@ docker run -d --name <nombre contenedor> -p <puerto host 01>:<puerto contenedor 
 ```
 
 Crear un contenedor a partir de la imagen rabbitmq version management-alpine, para este mapeo de puertos usar en el host los mismos puertos del contenedor.
-# COMPLETAR
+
+```
+docker run -d --name rabbitmq_server -p 5672:5672 -p 15672:15672 rabbitmq:management-alpine
+```
 
