@@ -47,6 +47,7 @@ docker images
 ```
 
 # COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+![alt text](<Captura de pantalla 2024-10-14 123327.png>)
 
 **Identificadores**
 
